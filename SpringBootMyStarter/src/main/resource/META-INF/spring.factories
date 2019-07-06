@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.tiankong.service.UserService,\
+com.tiankong.service.StrategyList
